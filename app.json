@@ -11,6 +11,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "scripts": {
+      "start": "expo start",
+      "web": "expo start --web",
+     
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -26,5 +31,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+    
+    
   }
 }
